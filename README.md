@@ -25,6 +25,11 @@ and you can create more than one product card.
 
 Use your imagination and good luck :)
 
-## Result
+## Desired result
 
 <img src = "https://raw.githubusercontent.com/AbelMurgas/web-challenge-community/main/McDonaldsProductChallenge/challenge/result.PNG">
+
+## [My solution](https://elcuatro29.github.io/McDonaldsProductChallenge-using-HTLM-CSS/)
+
+![Captura web_19-8-2022_161057_elcuatro29 github io](https://user-images.githubusercontent.com/83379794/185708468-9eebe686-d1b5-45b8-8e42-2c248fc50705.jpeg)
+
