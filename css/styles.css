@@ -17,16 +17,18 @@ body {
     align-items: center;
     justify-content: center;
     flex-flow: column;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
 }
 
 h3 {
     margin: 20px 0 10px;
-    font-family: "Speedee";
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
     font-size: 24px;
 }
 
 p {
-    font-family: 'Montserrat', sans-serif;
     font-size: 0.9rem;
 }
 
@@ -60,7 +62,6 @@ p {
     background-color: #ffbc0d;
     border: 0;
     border-radius: 4px;
-    font-family: 'Montserrat', sans-serif;
     font-size: 0.9rem;
     padding: 14px 30px;
     margin: 25px auto 35px;
